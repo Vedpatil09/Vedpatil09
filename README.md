@@ -1,4 +1,4 @@
-# 💫 Hi, I’m Ved Patil 👋
+# 💫 Hi,  I’m Ved Patil 👋
   <br>Final-year Information Technology student passionate about Backend Development and Problem Solving.<br><br>💻 Strong in Java, Data Structures & Algorithms (200+ problems solved)<br>⭐ 5-Star HackerRank in Java  <br>🚀 Experience building scalable REST APIs using Node.js, Express & MongoDB  <br>🌐 Built full-stack applications with authentication, cloud integrations & MVC architecture  <br><br>I enjoy writing clean, modular, production-ready code and continuously improving my system design and cloud fundamentals.<br><br>Currently focused on:<br>• Backend Engineering (Java / Node.js)<br>• System Design fundamentals<br>• Cloud & scalable architectures<br><br>Let’s build something impactful.<br>
 
 
